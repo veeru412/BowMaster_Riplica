@@ -16,6 +16,7 @@ namespace BowMaster.Core
         public float forceMul;
         public FloatVariable m_Hp;
         public Text angelTxt;
+        public GameObject _ui;
         Animation anim;
         bool myTurn = false;
         Rigidbody2D body;
@@ -25,9 +26,9 @@ namespace BowMaster.Core
             anim = GetComponent<Animation>();
             body = GetComponent<Rigidbody2D>();
             m_Hp.SetValue(3);
-#if !UNITY_EDITOR
+#if UNITY_ANDROID || UNITY_IOS
             rotSpeed = 25.0f;
-                forceMul = 4.0f;
+                forceMul = 6.0f;
 #endif
         }
 
@@ -35,10 +36,11 @@ namespace BowMaster.Core
         {
             if (myTurn)
             {
-#if UNITY_EDITOR
+#if UNITY_ANDROID || UNITY_IOS
+            
+                OnMobile();
+#else
                 OnEditor();
-#elif UNITY_ANDROID || UNITY_IOS
-                    OnMobile();
 #endif
             }
         }
@@ -64,6 +66,7 @@ namespace BowMaster.Core
             weaponPos.gameObject.SetActive(false);
             myTurn = false;
             anim.Play("settle");
+            _ui.SetActive(false);
         }
         public void Reset()
         {
@@ -103,6 +106,7 @@ namespace BowMaster.Core
                 myTurn = true;
                 body.isKinematic = false;
             }
+            _ui.SetActive(true);
         }
 
         private void OnMobile()

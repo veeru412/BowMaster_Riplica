@@ -121,6 +121,7 @@ MonoBehaviour:
   camTarget: {fileID: 11400000, guid: fc66f6b5eff91204f95e52432e29875c, type: 2}
   OnTaskFinished: {fileID: 11400000, guid: 2c9081061d15df2408c955dca69a1fd9, type: 2}
   characterHP: {fileID: 11400000, guid: 6e213ae818956324facfc7a2e12a54e7, type: 2}
+  fx: {fileID: 2992406160117757031, guid: aad0bddd196c0f7488b7df365b456aeb, type: 3}
   force: {fileID: 11400000, guid: 23147dca97fec5c4ebf9c8a496dcd38a, type: 2}
   GameOver: {fileID: 11400000, guid: 795b05272ae17264ca7e76e96d0c83b9, type: 2}
 --- !u!60 &9175422924733886322

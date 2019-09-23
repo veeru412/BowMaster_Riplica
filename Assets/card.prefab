@@ -256,6 +256,7 @@ MonoBehaviour:
   camTarget: {fileID: 11400000, guid: fc66f6b5eff91204f95e52432e29875c, type: 2}
   OnTaskFinished: {fileID: 11400000, guid: a84a30069e2367c49992aa64128bb67a, type: 2}
   characterHP: {fileID: 11400000, guid: f9f479583cef9cf4384acd8dc3da088f, type: 2}
+  fx: {fileID: 2992406160117757031, guid: aad0bddd196c0f7488b7df365b456aeb, type: 3}
   parentPrpts: {fileID: 11400000, guid: 5d9246556dfdf82409aabb59434ebd9e, type: 2}
   child: {fileID: 6486937140431514831}
   GameOver: {fileID: 11400000, guid: 795b05272ae17264ca7e76e96d0c83b9, type: 2}

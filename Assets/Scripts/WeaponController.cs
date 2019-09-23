@@ -16,6 +16,8 @@ namespace BowMaster.Core
 
         public FloatVariable characterHP;
 
+        public GameObject fx;
+
         private void Awake()
         {
             body = GetComponent<Rigidbody2D>();

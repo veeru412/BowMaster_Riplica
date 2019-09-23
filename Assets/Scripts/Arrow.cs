@@ -38,6 +38,7 @@ public class Arrow : WeaponController
             GetComponent<SpriteRenderer>().sortingOrder = 7;
             if (_tag == "enemy")
             {
+               // Instantiate(fx, collision.contacts[0].point, Quaternion.LookRotation(this.transform.right));
                 collision.gameObject.GetComponent<Rigidbody2D>().AddForceAtPosition(collision.contacts[0].point, this.transform.right);
                 characterHP.ApplyChage(-1);
                 if (characterHP.value <= 0)
