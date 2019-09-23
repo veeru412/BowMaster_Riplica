@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: c4ace0c791fd84e479c710c50ac08946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1881606494823092856
+    second: Kiss@2x0_0
+  - first:
+      213: -4505127813625245248
+    second: Kiss@2x0_1
+  - first:
+      213: -7733692501797747749
+    second: Kiss@2x0_2
+  - first:
+      213: 3987715818366626298
+    second: Kiss@2x0_3
+  - first:
+      213: -8502039040777212878
+    second: Kiss@2x0_4
+  - first:
+      213: -4112939848924632874
+    second: Kiss@2x0_5
+  - first:
+      213: 3415971499747414476
+    second: Kiss@2x0_6
+  - first:
+      213: -7524894308642411652
+    second: Kiss@2x0_7
+  - first:
+      213: 2110591768298542783
+    second: Kiss@2x0_8
+  - first:
+      213: 3426471358010247353
+    second: Kiss@2x0_9
+  - first:
+      213: 2348344436065482370
+    second: Kiss@2x0_10
+  - first:
+      213: -2072282929618372503
+    second: Kiss@2x0_11
+  - first:
+      213: -2818312687545927122
+    second: Kiss@2x0_12
+  - first:
+      213: 5583447831341852037
+    second: Kiss@2x0_13
+  - first:
+      213: 3206490631230313666
+    second: Kiss@2x0_14
+  - first:
+      213: -8130211104604860839
+    second: Kiss@2x0_15
+  - first:
+      213: -5869540713774968699
+    second: Kiss@2x0_16
+  - first:
+      213: -5661328246910284092
+    second: Kiss@2x0_17
+  - first:
+      213: 8512185415221036875
+    second: Kiss@2x0_18
+  - first:
+      213: -8304693681552295266
+    second: Kiss@2x0_19
+  - first:
+      213: 8202737461290494180
+    second: Kiss@2x0_20
+  - first:
+      213: -6900730904829610646
+    second: Kiss@2x0_21
+  - first:
+      213: -5960317324528634418
+    second: Kiss@2x0_22
+  - first:
+      213: -4294499676815287618
+    second: Kiss@2x0_23
+  - first:
+      213: 1109789501700368557
+    second: Kiss@2x0_24
+  - first:
+      213: -2884145022030040286
+    second: Kiss@2x0_25
+  - first:
+      213: 3011853880377971192
+    second: Kiss@2x0_26
+  - first:
+      213: -1802267439816089998
+    second: Kiss@2x0_27
+  - first:
+      213: 2286637703087228221
+    second: Kiss@2x0_28
+  - first:
+      213: 8600346477084751612
+    second: Kiss@2x0_29
+  - first:
+      213: -2376545037613355553
+    second: Kiss@2x0_30
+  - first:
+      213: -4645605497109027098
+    second: Kiss@2x0_31
+  - first:
+      213: -8227675109100167488
+    second: Kiss@2x0_32
+  - first:
+      213: 3948207661887364517
+    second: Kiss@2x0_33
+  - first:
+      213: 9010519185495213694
+    second: Kiss@2x0_34
+  - first:
+      213: 16324611409157808
+    second: Kiss@2x0_35
+  - first:
+      213: -93357346121720988
+    second: Kiss@2x0_36
+  - first:
+      213: 3180830758511208704
+    second: Kiss@2x0_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kiss@2x0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabe191ea9c39f4fb0f6143ec4aa08b
+      internalID: -1881606494823092856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1dd65fb7b5cc44b16a5ec77fd11cb
+      internalID: -4505127813625245248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 116
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8764c21cebb945900e1a726d5b095
+      internalID: -7733692501797747749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdc5b4713bd5d545b0de44e8cd84912
+      internalID: 3987715818366626298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 170
+        width: 103
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d439cf4e0ff3e409bf7e724f308e82
+      internalID: -8502039040777212878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 59
+        height: 35
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd19af5e27cfb44f935dbb5c3824c3f
+      internalID: -4112939848924632874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 59
+        height: 35
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba4c87a09541d44a1271d3b97b7bdd
+      internalID: 3415971499747414476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 57
+        width: 59
+        height: 35
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4453a34269d0848918a82dbafbe058
+      internalID: -7524894308642411652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf3a6ef9df5a44397f3f4042f90cec
+      internalID: 2110591768298542783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 66
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97354c826aa2ee74785e591b7a096baa
+      internalID: 3426471358010247353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 69
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3fa3be089dd447a40bb4d7547b01b
+      internalID: 2348344436065482370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 68
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a973d26016042d418433301b6e39e1c
+      internalID: -2072282929618372503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 61
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3672995ef19174daf35dda92ebd78f
+      internalID: -2818312687545927122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 26
+        width: 61
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77c9d552306144c87155f68461e085
+      internalID: 5583447831341852037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4dfd628daded4c9f8c6a836950f87
+      internalID: 3206490631230313666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f119919090dc5a44b9abe8d3fc32081
+      internalID: -8130211104604860839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 26
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688878713e975a542a8026720b3ab3e1
+      internalID: -5869540713774968699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 26
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c37664fb67564cba4c6ef39a03b43
+      internalID: -5661328246910284092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6addbe9c1d835a645a0da4511f43df9a
+      internalID: 8512185415221036875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 27
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8ea4935dcb4f4eb43ea0fee80b4d6
+      internalID: -8304693681552295266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 33
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121b9597f703d34f93b0bbcbf593099
+      internalID: 8202737461290494180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a530ab0362ef7c488f9237522c24d4d
+      internalID: -6900730904829610646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc1ed9906763847993994b35823d0f
+      internalID: -5960317324528634418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c328b425c6774da2aee05cfd65d01
+      internalID: -4294499676815287618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565512aafbab324eb4b9c56eef34d61
+      internalID: 1109789501700368557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c164fb9f5e21499b72da7e0487e96
+      internalID: -2884145022030040286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc664f99c860d6c4cacb75f9371c76f4
+      internalID: 3011853880377971192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049b4612c6b928449884e4017c27ba6
+      internalID: -1802267439816089998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f56e57fc5bd3844b9f14c3dacc1323
+      internalID: 2286637703087228221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa642ab7fe75691449d72aafb0b27575
+      internalID: 8600346477084751612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d0e6be89398944bbb1cefc18a38e6e
+      internalID: -2376545037613355553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435958f2631c41418198e69e2ac31a4
+      internalID: -4645605497109027098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89606d5c573f2b441ad3688423c49811
+      internalID: -8227675109100167488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c4784f43d29e46bcf8e9ac1ab5017
+      internalID: 3948207661887364517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 7
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3fcf5351a9f54384620faa5dddedc
+      internalID: 9010519185495213694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 4
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fde3be4122feb4c806fb188613edf0
+      internalID: 16324611409157808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 61
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22bbd626d742e40986b4628ed3e29d
+      internalID: -93357346121720988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiss@2x0_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4
+        width: 61
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ca76a0749bcf448ab2a1a78e0ed6d
+      internalID: 3180830758511208704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d53648878324be54fa036c12ea108195
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

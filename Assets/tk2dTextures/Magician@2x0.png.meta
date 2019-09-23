@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 759e0d6f9e63ee3498e7945cbd5fe480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6577677395911736920
+    second: Magician@2x0_0
+  - first:
+      213: 4313696226979396372
+    second: Magician@2x0_1
+  - first:
+      213: 4517337754170292207
+    second: Magician@2x0_2
+  - first:
+      213: -6056661664196341123
+    second: Magician@2x0_3
+  - first:
+      213: -2072503376116241382
+    second: Magician@2x0_4
+  - first:
+      213: -2636669083111994205
+    second: Magician@2x0_5
+  - first:
+      213: 6396915498986460970
+    second: Magician@2x0_6
+  - first:
+      213: 1626173645672610135
+    second: Magician@2x0_7
+  - first:
+      213: -3426014049643914414
+    second: Magician@2x0_8
+  - first:
+      213: 252262903713882443
+    second: Magician@2x0_9
+  - first:
+      213: 8726366345142098820
+    second: Magician@2x0_10
+  - first:
+      213: 212355259644236900
+    second: Magician@2x0_11
+  - first:
+      213: 6498081050010414010
+    second: Magician@2x0_12
+  - first:
+      213: 1787736572168239036
+    second: Magician@2x0_13
+  - first:
+      213: -2322188522713990563
+    second: Magician@2x0_14
+  - first:
+      213: -5008164359298490249
+    second: Magician@2x0_15
+  - first:
+      213: -2953993812197074433
+    second: Magician@2x0_16
+  - first:
+      213: -7267525164585816641
+    second: Magician@2x0_17
+  - first:
+      213: 2228663569401652230
+    second: Magician@2x0_18
+  - first:
+      213: -8143537107019336746
+    second: Magician@2x0_19
+  - first:
+      213: 3514087748670324619
+    second: Magician@2x0_20
+  - first:
+      213: 3162050783338287890
+    second: Magician@2x0_21
+  - first:
+      213: -1705253148947405259
+    second: Magician@2x0_22
+  - first:
+      213: -2951204176870595417
+    second: Magician@2x0_23
+  - first:
+      213: 7182060915916693158
+    second: Magician@2x0_24
+  - first:
+      213: -8244625698863825318
+    second: Magician@2x0_25
+  - first:
+      213: 3570919890407128902
+    second: Magician@2x0_26
+  - first:
+      213: -1900019513151683769
+    second: Magician@2x0_27
+  - first:
+      213: 2458015098130434086
+    second: Magician@2x0_28
+  - first:
+      213: -634065065637566445
+    second: Magician@2x0_29
+  - first:
+      213: -5961071060390112718
+    second: Magician@2x0_30
+  - first:
+      213: -1776954992906748094
+    second: Magician@2x0_31
+  - first:
+      213: 7981328866385212883
+    second: Magician@2x0_32
+  - first:
+      213: -1422526234290216934
+    second: Magician@2x0_33
+  - first:
+      213: 1033715221431233076
+    second: Magician@2x0_34
+  - first:
+      213: -923372336743941291
+    second: Magician@2x0_35
+  - first:
+      213: 3934777950787972532
+    second: Magician@2x0_36
+  - first:
+      213: -685242839233759521
+    second: Magician@2x0_37
+  - first:
+      213: -2702432200270675135
+    second: Magician@2x0_38
+  - first:
+      213: 7542374171721593776
+    second: Magician@2x0_39
+  - first:
+      213: 7645932123700797502
+    second: Magician@2x0_40
+  - first:
+      213: 8981303470621306338
+    second: Magician@2x0_41
+  - first:
+      213: 1027034671144088022
+    second: Magician@2x0_42
+  - first:
+      213: -2666300070916666740
+    second: Magician@2x0_43
+  - first:
+      213: -4691677906889836124
+    second: Magician@2x0_44
+  - first:
+      213: 418222000974347303
+    second: Magician@2x0_45
+  - first:
+      213: 1430431540783079542
+    second: Magician@2x0_46
+  - first:
+      213: -1109819192602230281
+    second: Magician@2x0_47
+  - first:
+      213: -8393320316182467204
+    second: Magician@2x0_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magician@2x0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae66e3b59939934b94a514756e8166d
+      internalID: 6577677395911736920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 283
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd6b2811b455424a8c3ef93141a8842
+      internalID: 4313696226979396372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc9f713f75453439ad9298e7bf1562
+      internalID: 4517337754170292207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 159
+        width: 130
+        height: 91
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dd5673bacb52f43a6ae6272c422aa1
+      internalID: -6056661664196341123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf325a2abeffba4fbeedc1f6e19bac8
+      internalID: -2072503376116241382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 112
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4bdfe96f96c14facaa3df3c591e68
+      internalID: -2636669083111994205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 113
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a009a520537046828274a3a06c3db
+      internalID: 6396915498986460970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 88
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19832013bdbec764482f49365b9fe982
+      internalID: 1626173645672610135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e099f4e2b6b2d41bbe2e177b830e57
+      internalID: -3426014049643914414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 101
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164b2dcb295de9409a921290062a29b
+      internalID: 252262903713882443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 105
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191b7ceabcbb0d4b8abd24e028f2118
+      internalID: 8726366345142098820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 54
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393536bad72c12546a5d4ae2a914b8d0
+      internalID: 212355259644236900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 54
+        height: 22
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff31e60f39a314449b1cda7044e863f
+      internalID: 6498081050010414010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859fd232858c8a449d3cd125efeaced
+      internalID: 1787736572168239036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0947e7c7196043a52de5514cfa534
+      internalID: -2322188522713990563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 50
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6ca0d9dda3544cb057329159936b2
+      internalID: -5008164359298490249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 50
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405395a81e5eb04fb14c22e4eed17ad
+      internalID: -2953993812197074433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 56
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53051c489a294ad4ca45fdca2bb2fff5
+      internalID: -7267525164585816641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 60
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896019cc432f69245ad9febf3f28b530
+      internalID: 2228663569401652230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b05c1f717c45d48997a6c43265e941
+      internalID: -8143537107019336746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5dfa3540bdc94cb9ae9e7618f1c34
+      internalID: 3514087748670324619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9be4265f0e80249886597f006a152b
+      internalID: 3162050783338287890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 26
+        width: 52
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caeecebcf2f85b4090afc6f7fe446ca
+      internalID: -1705253148947405259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 26
+        width: 52
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894eb529a643b2d4abf740cfd6cbf4c0
+      internalID: -2951204176870595417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 52
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8435d416133727a4697be12fa8fb1192
+      internalID: 7182060915916693158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 26
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791b68769b8a34468337f19d6511380
+      internalID: -8244625698863825318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 26
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cfb94809130a045bca680fcb6239d6
+      internalID: 3570919890407128902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 26
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065145f12711d6b4fb908f69539d6805
+      internalID: -1900019513151683769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 26
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1831e2b8078204aa36150eb6e6ef16
+      internalID: 2458015098130434086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39ab45eb9551f499d0352755f1cd23
+      internalID: -634065065637566445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8d625c41c6a04baff988c673b5ab5
+      internalID: -5961071060390112718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946723c1a3fbcf54387db9188aac88b8
+      internalID: -1776954992906748094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee4a81f6bf04c45b442ac0e9b48724
+      internalID: 7981328866385212883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83df9a86e7e9b3c4b9deb3eeb14dba79
+      internalID: -1422526234290216934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19cd44e71155bf48ad9a0c17f694cfc
+      internalID: 1033715221431233076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de92e2e8bcda8145927708b29971746
+      internalID: -923372336743941291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc3e6c58f2c4741808d997e6ad11d5
+      internalID: 3934777950787972532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983834403944afb449b1785d7b1248cf
+      internalID: -685242839233759521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d21b1222c2c384aae5ce3662f53d59
+      internalID: -2702432200270675135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cfda231fff1b24883aa192d62fa7ce
+      internalID: 7542374171721593776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b536b5ba200b41b9713ea7608e7f2
+      internalID: 7645932123700797502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2977e405ad984eabf099b27f78aff
+      internalID: 8981303470621306338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121a6b5a25dc254cbe98a88d4a8c4ee
+      internalID: 1027034671144088022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586cd6a9b99cb1447a0ae1d955620eb0
+      internalID: -2666300070916666740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a67a71f0e2cd4c94e0df80f063da1
+      internalID: -4691677906889836124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1a7d8e9b7aba49abfbc291ea86216
+      internalID: 418222000974347303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906674c4fc7af3f47b01b95aade48de8
+      internalID: 1430431540783079542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e76156e74a09724d8e7d0103127b328
+      internalID: -1109819192602230281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician@2x0_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660ee726ad0b234cb1407483388a89a
+      internalID: -8393320316182467204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3343767511c49084a9e15f066932a9ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

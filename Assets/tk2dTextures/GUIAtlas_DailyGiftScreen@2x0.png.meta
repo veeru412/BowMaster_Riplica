@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: bb0a10670e3180e4eb9b13712ed519c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5024120122793891795
+    second: GUIAtlas_DailyGiftScreen@2x0_0
+  - first:
+      213: 668562125082663445
+    second: GUIAtlas_DailyGiftScreen@2x0_1
+  - first:
+      213: -823948656240427279
+    second: GUIAtlas_DailyGiftScreen@2x0_2
+  - first:
+      213: -278091730507906376
+    second: GUIAtlas_DailyGiftScreen@2x0_3
+  - first:
+      213: 867217362196887803
+    second: GUIAtlas_DailyGiftScreen@2x0_4
+  - first:
+      213: -3654001977924851467
+    second: GUIAtlas_DailyGiftScreen@2x0_5
+  - first:
+      213: 3959818843240880920
+    second: GUIAtlas_DailyGiftScreen@2x0_6
+  - first:
+      213: -3483047178368934628
+    second: GUIAtlas_DailyGiftScreen@2x0_7
+  - first:
+      213: -9133147563503319409
+    second: GUIAtlas_DailyGiftScreen@2x0_8
+  - first:
+      213: -3336820506280239447
+    second: GUIAtlas_DailyGiftScreen@2x0_9
+  - first:
+      213: -2528857405952208743
+    second: GUIAtlas_DailyGiftScreen@2x0_10
+  - first:
+      213: -8444704458985957157
+    second: GUIAtlas_DailyGiftScreen@2x0_11
+  - first:
+      213: 8748862748421486277
+    second: GUIAtlas_DailyGiftScreen@2x0_12
+  - first:
+      213: -5302291477894036591
+    second: GUIAtlas_DailyGiftScreen@2x0_13
+  - first:
+      213: 5775929902094016656
+    second: GUIAtlas_DailyGiftScreen@2x0_14
+  - first:
+      213: 4827311006672884673
+    second: GUIAtlas_DailyGiftScreen@2x0_15
+  - first:
+      213: 1487083281643773198
+    second: GUIAtlas_DailyGiftScreen@2x0_16
+  - first:
+      213: -3558277367032779000
+    second: GUIAtlas_DailyGiftScreen@2x0_17
+  - first:
+      213: 2073815107847580549
+    second: GUIAtlas_DailyGiftScreen@2x0_18
+  - first:
+      213: 4952453399725272839
+    second: GUIAtlas_DailyGiftScreen@2x0_19
+  - first:
+      213: 536502342483287906
+    second: GUIAtlas_DailyGiftScreen@2x0_20
+  - first:
+      213: -1207970830467636587
+    second: GUIAtlas_DailyGiftScreen@2x0_21
+  - first:
+      213: -5155071277074879513
+    second: GUIAtlas_DailyGiftScreen@2x0_22
+  - first:
+      213: -7084157984920709267
+    second: GUIAtlas_DailyGiftScreen@2x0_23
+  - first:
+      213: -2675409344560448629
+    second: GUIAtlas_DailyGiftScreen@2x0_24
+  - first:
+      213: -7428726679383790493
+    second: GUIAtlas_DailyGiftScreen@2x0_25
+  - first:
+      213: 4519759912733263544
+    second: GUIAtlas_DailyGiftScreen@2x0_26
+  - first:
+      213: 2741282601066867149
+    second: GUIAtlas_DailyGiftScreen@2x0_27
+  - first:
+      213: 900398037766221463
+    second: GUIAtlas_DailyGiftScreen@2x0_28
+  - first:
+      213: -8828930041940669446
+    second: GUIAtlas_DailyGiftScreen@2x0_29
+  - first:
+      213: 4186943495832372977
+    second: GUIAtlas_DailyGiftScreen@2x0_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 940
+        width: 169
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d514063d22434e49a368f7e2df04c05
+      internalID: -5024120122793891795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 794
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f2cf050703dd4cb0a0a9cddb9aa8f
+      internalID: 668562125082663445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 707
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867bb6450dc87d43b230c82112e5990
+      internalID: -823948656240427279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 739
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25ec29d2f36af4d8d2e96e31843743
+      internalID: -278091730507906376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 761
+        width: 147
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2914abd4bc1a141803df96a2b3d56b
+      internalID: 867217362196887803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 870
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c9ad6e5f5e2584bba1d150391837d0
+      internalID: -3654001977924851467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 764
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb54d0a1e39154a84386e77e7a80e1
+      internalID: 3959818843240880920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 533
+        width: 204
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c55548181bd348a2f79f465efac6a
+      internalID: -3483047178368934628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 530
+        width: 203
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e179a39bae1b48807f19cdde608a4
+      internalID: -9133147563503319409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 516
+        width: 217
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ef11b20c8a7848b0d0f6e90f9e990
+      internalID: -3336820506280239447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 558
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4ae8bb6b1cf54fa3472ba363b05b0
+      internalID: -2528857405952208743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 332
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f195cef673a12c4d8e39a7bca02acef
+      internalID: -8444704458985957157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 324
+        width: 200
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598120788baddae4e8a787e93721ce68
+      internalID: 8748862748421486277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 343
+        width: 182
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996587d9260659f4ea62337fa489ae51
+      internalID: -5302291477894036591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 318
+        width: 218
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab374ea2e2acc044d95e34f7c315bf97
+      internalID: 5775929902094016656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e494617e027444935cd4e77e79836
+      internalID: 4827311006672884673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 91
+        width: 198
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106894d334391d4c8e8b58028b3838a
+      internalID: 1487083281643773198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 91
+        width: 197
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b05c187ceece43be2e4f9c6880942
+      internalID: -3558277367032779000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 137
+        width: 187
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5340c6f9d1f5645893e67f1a841b3e
+      internalID: 2073815107847580549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b9d75d8875924091f2d88cf9b61d3
+      internalID: 4952453399725272839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f7ae1cba2ee3428dfd71e6d978e44
+      internalID: 536502342483287906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5680caff603b754fb4b806a46bbe1c2
+      internalID: -1207970830467636587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0936f2296e1e449224bd88bb66782
+      internalID: -5155071277074879513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ce65715419224da66bb7e6b5ae3e4
+      internalID: -7084157984920709267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71efca8b246044f4ab74734dd5b2b76a
+      internalID: -2675409344560448629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eff7ef13877af4bb598d52b9a0935e
+      internalID: -7428726679383790493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354672e8abc6f1f4b981484133c2827c
+      internalID: 4519759912733263544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0216594e76d2394ab48f158a740ea8b
+      internalID: 2741282601066867149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 269
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd994547fdf8b7f4ca100c826e23ec78
+      internalID: 900398037766221463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90109313ad0388940af15a54151b1cf9
+      internalID: -8828930041940669446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIAtlas_DailyGiftScreen@2x0_30
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6989f964bc2346b427e837512894e
+      internalID: 4186943495832372977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ad648e69215eb6489890efaf521a996
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
