@@ -31507,6 +31507,7 @@ GameObject:
   - component: {fileID: 1692363697}
   - component: {fileID: 1692363699}
   - component: {fileID: 1692363698}
+  - component: {fileID: 1692363700}
   m_Layer: 5
   m_Name: filler
   m_TagString: Untagged
@@ -31570,6 +31571,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1692363696}
   m_CullTransparentMesh: 0
+--- !u!114 &1692363700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1692363696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b369f8a5ce19fe4438f28bb373479cc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: {fileID: 11400000, guid: f9f479583cef9cf4384acd8dc3da088f, type: 2}
 --- !u!1 &1693732231
 GameObject:
   m_ObjectHideFlags: 0
@@ -33639,6 +33653,7 @@ GameObject:
   - component: {fileID: 1789654645}
   - component: {fileID: 1789654647}
   - component: {fileID: 1789654646}
+  - component: {fileID: 1789654648}
   m_Layer: 5
   m_Name: filler
   m_TagString: Untagged
@@ -33702,6 +33717,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1789654644}
   m_CullTransparentMesh: 0
+--- !u!114 &1789654648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789654644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b369f8a5ce19fe4438f28bb373479cc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: {fileID: 11400000, guid: 6e213ae818956324facfc7a2e12a54e7, type: 2}
 --- !u!1 &1789908174
 GameObject:
   m_ObjectHideFlags: 0
@@ -40433,6 +40461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RobinHood
       objectReference: {fileID: 0}
+    - target: {fileID: 1457831347, guid: ee569287572655c4a859a3c4ced87985, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8218876690172219923, guid: ee569287572655c4a859a3c4ced87985,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -40497,9 +40529,5 @@ PrefabInstance:
       propertyPath: _ui
       value: 
       objectReference: {fileID: 1145005652}
-    - target: {fileID: 1457831347, guid: ee569287572655c4a859a3c4ced87985, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee569287572655c4a859a3c4ced87985, type: 3}

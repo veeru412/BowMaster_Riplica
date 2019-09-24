@@ -9,6 +9,7 @@ ScriptsOnlyBuild:
     - CharacterProperties
     - DisplayTragectory
     - ExampleControl
+    - Filler
     - FloatVariable
     - FreeParallax
     - GameEvent
@@ -37,7 +38,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Outline
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/DemoScene.unity:
+    Assets/Scenes/DemoScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -110,6 +111,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 9700}
     - Class: 114
       Script: {instanceID: 9710}
+    - Class: 114
+      Script: {instanceID: 9778}
     - Class: 114
       Script: {instanceID: 9878}
     - Class: 114
@@ -927,5 +930,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/DemoScene.unity
-  playerPath: C:/Users/verab/Desktop/BowMaster.apk
+  - Assets/Scenes/DemoScene.unity
+  playerPath: C:/Users/verab/Desktop/BowMaster_Riplica/BowMaster_RIPLICA.apk

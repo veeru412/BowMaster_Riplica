@@ -26,7 +26,7 @@ namespace BowMaster.Core
             anim = GetComponent<Animation>();
             body = GetComponent<Rigidbody2D>();
             m_Hp.SetValue(3);
-#if UNITY_ANDROID || UNITY_IOS
+#if (UNITY_ANDROID || UNITY_IOS) && !UNITY_EDITOR
             rotSpeed = 25.0f;
                 forceMul = 6.0f;
 #endif
@@ -36,8 +36,8 @@ namespace BowMaster.Core
         {
             if (myTurn)
             {
-#if UNITY_ANDROID || UNITY_IOS
-            
+#if (UNITY_ANDROID || UNITY_IOS) && !UNITY_EDITOR
+
                 OnMobile();
 #else
                 OnEditor();

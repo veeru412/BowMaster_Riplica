@@ -15,6 +15,6 @@ MonoBehaviour:
   name: Magician
   weaponPrefab: {fileID: 4551692624157238922, guid: 7296f053011f7c94ca803cacd2a8ea30,
     type: 3}
-  difficulty: 2
+  difficulty: 3
   health: 3
   icon: {fileID: 0}

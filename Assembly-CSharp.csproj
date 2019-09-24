@@ -68,10 +68,10 @@
     <Compile Include="Assets\Scripts\AIWeaponCntrl.cs" />
     <Compile Include="Assets\Scripts\Arrow.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\DataAssets\CharacterProperties.cs" />
-    <Compile Include="Assets\Scripts\DataAssets\FloatVariable.cs" />
-    <Compile Include="Assets\Scripts\DataAssets\ObjVar.cs" />
-    <Compile Include="Assets\Scripts\DataAssets\VectorObj.cs" />
+    <Compile Include="Assets\Scripts\DataAssets\Scripts\CharacterProperties.cs" />
+    <Compile Include="Assets\Scripts\DataAssets\Scripts\FloatVariable.cs" />
+    <Compile Include="Assets\Scripts\DataAssets\Scripts\ObjVar.cs" />
+    <Compile Include="Assets\Scripts\DataAssets\Scripts\VectorObj.cs" />
     <Compile Include="Assets\Scripts\DisplayTragectory.cs" />
     <Compile Include="Assets\Scripts\Events\GameEvent.cs" />
     <Compile Include="Assets\Scripts\Events\GameEventListener.cs" />
